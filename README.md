@@ -8,4 +8,4 @@ Incluye:
 
 Script SQL con creación de tablas, inserciones y uniones.
 
-Trabajo entregado a nonbre del grupo integrado por Sofía Cacciatore e Ignacio Diomedi.
+Trabajo entregado a nombre del grupo integrado por Sofía Cacciatore e Ignacio Diomedi.
