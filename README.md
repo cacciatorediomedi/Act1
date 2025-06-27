@@ -7,5 +7,5 @@ Relación muchos a muchos
 Incluye:
 
 Script SQL con creación de tablas, inserciones y uniones.
-Diagramas Entidad-Relación
+
 Trabajo entregado a nonbre del grupo integrado por Sofía Cacciatore e Ignacio Diomedi.
